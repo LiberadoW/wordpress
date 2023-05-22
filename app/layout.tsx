@@ -1,5 +1,5 @@
 import { ApolloWrapper } from "@/lib/apollo-wrapper";
-// import "./globals.css";
+import "./globals.css";
 
 export const metadata = {
   title: "Create Next App",
